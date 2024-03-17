@@ -30,6 +30,6 @@ COPY ./application /root/application
 
 WORKDIR /root/application
 
-RUN fpc main.pas
+# RUN fpc main.pas
 
-CMD ["./main"]
+CMD ["./run.sh"]
