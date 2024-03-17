@@ -5,17 +5,17 @@ var i: integer;
 var j: integer;
 var tmp: integer;
 
-procedure wygeneruj();
+procedure wygeneruj(min, max, amount: Integer);
 begin;
-    for i:=0 to 49 do
+    for i:=0 to amount-1 do
     begin;
-        tablica[i] := random(101);
+        tablica[i] := random(max-min+1)+min;
     end;
 end;
 
-procedure wypisz();
+procedure wypisz(amount: Integer);
 begin;
-    for i:= 0 to 49 do
+    for i:= 0 to amount-1 do
     begin;
         write(tablica[i]);
         write(' ');
@@ -23,11 +23,11 @@ begin;
     writeln('');
 end;
 
-procedure sortuj();
+procedure sortuj(amount: Integer);
 begin;
-    for i:= 1 to 49 do
+    for i:= 1 to amount-1 do
     begin;
-        for j:= 0 to 49-i do
+        for j:= 0 to amount-1-i do
         begin;
             if tablica[j+1] < tablica[j] then
             begin;
@@ -39,10 +39,33 @@ begin;
     end;
 end;
 
+var od: integer = 0;
+var doo: integer = 100;
+var ile: integer = 50;
+
 begin
+
     randomize;
-    wygeneruj();
-    wypisz();
-    sortuj();
-    wypisz();
+    write('OD: ');
+    write(od);
+    writeln('');
+
+    write('DO: ');
+    write(doo);
+    writeln('');
+
+    write('ILE: ');
+    write(ile);
+    writeln('');
+
+    wygeneruj(od, doo, ile);
+
+    writeln('Wygenerowane liczby:');
+    wypisz(ile);
+
+    sortuj(ile);
+
+    writeln('Posortowane liczby:');
+    wypisz(ile);
+    
 end.
