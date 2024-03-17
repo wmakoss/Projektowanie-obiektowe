@@ -10,7 +10,7 @@
 
 :white_check_mark: 4.5 wymaganie 4 [Link do commita 4](https://github.com/wmakoss/Projektowanie-obiektowe/commit/bc7412dc8126c9a816a458bd4638050b009035ea)
 
-:x: 5.0 wymaganie 5 
+:white_check_mark: 5.0 wymaganie 5 [Link do commita 5](https://github.com/wmakoss/Projektowanie-obiektowe/commit/eaf85bc46082e116f8226003accf9c2c21a6193c)
 
 
 Kod: [Zadanie 1](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%201)
