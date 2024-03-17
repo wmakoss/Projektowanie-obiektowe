@@ -1,0 +1,9 @@
+version: '1.0'
+
+services:
+    zadanie1:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        # volumes:
+            # - ./application:/root/application
