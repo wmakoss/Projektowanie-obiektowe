@@ -6,7 +6,7 @@
 
 :white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/wmakoss/Projektowanie-obiektowe/commit/0e224beb0318ad70dad0d1180a8d1ca1add12446)
 
-:x: 4.0 wymaganie 3 
+:white_check_mark: 4.0 wymaganie 3 [Link do commita 3](https://github.com/wmakoss/Projektowanie-obiektowe/commit/6ab75e635f86ec53c1bbf8982ce1ca32feb8b30b)
 
 :x: 4.5 wymaganie 4 
 
