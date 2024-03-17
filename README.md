@@ -2,7 +2,7 @@
 
 **Zadanie 1** Paradygmaty
 
-:x: 3.0 wymaganie 1 
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4bd98a405ca70e6935ee863a73ec82df383d2ff7)
 
 :x: 3.5 wymaganie 2 
 
