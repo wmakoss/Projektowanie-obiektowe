@@ -1,5 +1,7 @@
 # Projektowanie-obiektowe
 
+[Link do zadan](https://github.com/kprzystalski/po2024)
+
 **Zadanie 1** Paradygmaty
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4bd98a405ca70e6935ee863a73ec82df383d2ff7)
