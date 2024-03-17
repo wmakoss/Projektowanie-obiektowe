@@ -1,6 +1,6 @@
 program main;
 
-var tablica: Array[0..49] of Integer;
+var tablica: Array[0..1000] of Integer;
 var i: integer;
 var j: integer;
 var tmp: integer;
@@ -39,6 +39,145 @@ begin;
     end;
 end;
 
+procedure test_wygeneruj_1();
+var test_result: boolean = true;
+begin;
+    wygeneruj(-100, -10, 17);
+    for i:= 0 to 16 do
+    begin;
+        if (tablica[i] < -100) or (tablica[i] > -10) then
+        begin;
+          test_result := false;
+          break
+        end;
+    end;
+
+    write('Test procedury wygeneruj nr 1: ');
+
+    if (test_result = true) then
+    begin;
+        writeln('PASSED');
+    end;
+
+    if (test_result = false) then
+    begin;
+        writeln('FAILED');
+    end;
+end;
+
+procedure test_wygeneruj_2();
+var test_result: boolean = true;
+begin;
+    wygeneruj(0, 20, 1000);
+    for i:= 0 to 999 do
+    begin;
+        if (tablica[i] < 0) or (tablica[i] > 20) then
+        begin;
+          test_result := false;
+          break
+        end;
+    end;
+
+    write('Test procedury wygeneruj nr 2: ');
+
+    if (test_result = true) then
+    begin;
+        writeln('PASSED');
+    end;
+
+    if (test_result = false) then
+    begin;
+        writeln('FAILED');
+    end;
+end;
+
+procedure test_wygeneruj_3();
+var test_result: boolean = true;
+begin;
+    wygeneruj(126, 126, 1000);
+    for i:= 0 to 999 do
+    begin;
+        if (tablica[i] < 126) or (tablica[i] > 126) then
+        begin;
+          test_result := false;
+          break
+        end;
+    end;
+
+    write('Test procedury wygeneruj nr 3: ');
+
+    if (test_result = true) then
+    begin;
+        writeln('PASSED');
+    end;
+
+    if (test_result = false) then
+    begin;
+        writeln('FAILED');
+    end;
+end;
+
+
+procedure test_sortuj_losowy();
+var test_result: boolean = true;
+begin;
+    wygeneruj(0, 500, 1000);
+    sortuj(1000);
+    for i:= 0 to 998 do
+    begin;
+        if tablica[i+1] < tablica[i] then
+        begin;
+          test_result := false;
+          break
+        end;
+    end;
+
+    write('Test procedury sortuj losowy: ');
+
+    if (test_result = true) then
+    begin;
+        writeln('PASSED');
+    end;
+
+    if (test_result = false) then
+    begin;
+        writeln('FAILED');
+    end;
+end;
+
+
+procedure test_sortuj_odwrocona_tablica();
+var test_result: boolean = true;
+begin;
+    for i:=0 to 999 do
+    begin;
+        tablica[i] := 1000-i;
+    end;
+    sortuj(1000);
+    for i:= 0 to 998 do
+    begin;
+        if tablica[i+1] < tablica[i] then
+        begin;
+          test_result := false;
+          break
+        end;
+    end;
+
+    write('Test procedury sortuj odwrocona tablica: ');
+
+    if (test_result = true) then
+    begin;
+        writeln('PASSED');
+    end;
+
+    if (test_result = false) then
+    begin;
+        writeln('FAILED');
+    end;
+end;
+
+
+
 var od: integer = 0;
 var doo: integer = 100;
 var ile: integer = 50;
@@ -47,16 +186,13 @@ begin
 
     randomize;
     write('OD: ');
-    write(od);
-    writeln('');
+    writeln(od);
 
     write('DO: ');
-    write(doo);
-    writeln('');
+    writeln(doo);
 
     write('ILE: ');
-    write(ile);
-    writeln('');
+    writeln(ile);
 
     wygeneruj(od, doo, ile);
 
@@ -67,5 +203,12 @@ begin
 
     writeln('Posortowane liczby:');
     wypisz(ile);
-    
+
+    writeln('');
+    writeln('Testy:');
+    test_wygeneruj_1();
+    test_wygeneruj_2();
+    test_wygeneruj_3();
+    test_sortuj_losowy();
+    test_sortuj_odwrocona_tablica();
 end.
