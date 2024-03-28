@@ -16,3 +16,18 @@
 
 
 Kod: [Zadanie 1](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%201)
+
+**Zadanie 2** Paradygmaty
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/abc55d1b8432cf44f6a718f592955fe301a9c254)
+
+:x: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 2](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%202)
