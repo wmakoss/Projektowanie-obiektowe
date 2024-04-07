@@ -31,3 +31,18 @@ Kod: [Zadanie 1](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/za
 
 
 Kod: [Zadanie 2](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%202)
+
+**Zadanie 3** Wzorce kreacyjne
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/ed783fe300665eef84a47b0cd2cb85982fa1901f)
+
+:x: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 3](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%203)
