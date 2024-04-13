@@ -1,0 +1,24 @@
+body
+{
+   font-size: 50px;
+   padding: 50px;
+   font-weight: bold;
+}
+
+select
+{
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+table, td, th
+{
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+}
+
+th
+{
+    background-color: lightgray;
+}
