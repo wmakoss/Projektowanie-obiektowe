@@ -46,3 +46,18 @@ Kod: [Zadanie 2](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/za
 
 
 Kod: [Zadanie 3](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%203)
+
+**Zadanie 4** Wzorce strukturalne
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/8fd6254577aacaaa43a3a4ce3eb5488f1d289990)
+
+:x: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 4](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%204)
