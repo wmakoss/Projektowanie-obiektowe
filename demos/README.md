@@ -14,3 +14,7 @@ https://github.com/wmakoss/Projektowanie-obiektowe/assets/71134532/be7791c4-8cc7
 **Zadanie 4**
 
 https://github.com/wmakoss/Projektowanie-obiektowe/assets/71134532/c949a01b-a688-4338-847c-594e0776ae74
+
+**Zadanie 5**
+
+https://github.com/wmakoss/Projektowanie-obiektowe/assets/71134532/9030d925-cae6-430d-907a-9a2089ddd599
