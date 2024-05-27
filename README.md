@@ -61,3 +61,18 @@ Kod: [Zadanie 3](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/za
 
 
 Kod: [Zadanie 4](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%204)
+
+**Zadanie 5** Wzorce behawioralne React (JavaScript/Typescript)
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/0515c48fe693c6fdd188fb3b6ffa40a884faaf6e)
+
+:x: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 5](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%205)
