@@ -76,3 +76,18 @@ Kod: [Zadanie 4](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/za
 
 
 Kod: [Zadanie 5](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%205)
+
+**Zadanie 9** Testy
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4902ad5110ce8ec79833de04c153c4664e2c698b)
+
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 2](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4902ad5110ce8ec79833de04c153c4664e2c698b)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 9](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%209)
