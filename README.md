@@ -77,6 +77,21 @@ Kod: [Zadanie 4](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/za
 
 Kod: [Zadanie 5](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%205)
 
+**Zadanie 6** Zapaszki Sonar (JS)
+
+:x: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:white_check_mark: 4.5 wymaganie 4
+
+:white_check_mark: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 6](https://github.com/wmakoss/SonarCloudTest)
+
 **Zadanie 9** Testy
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4902ad5110ce8ec79833de04c153c4664e2c698b)
