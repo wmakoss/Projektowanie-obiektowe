@@ -92,6 +92,21 @@ Kod: [Zadanie 5](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/za
 
 Kod: [Zadanie 6](https://github.com/wmakoss/SonarCloudTest)
 
+**Zadanie 7** Antywzorce Vapor (Swift)
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4475d832a7f081a585e855019b0f1883bc2ca8a6)
+
+:x: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 7](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%207)
+
 **Zadanie 9** Testy
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4902ad5110ce8ec79833de04c153c4664e2c698b)
