@@ -107,6 +107,21 @@ Kod: [Zadanie 6](https://github.com/wmakoss/SonarCloudTest)
 
 Kod: [Zadanie 7](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%207)
 
+**Zadanie 8** Mobile first (Android)
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/cbfb70909481144a9b0a082a9925192fbc69ef43)
+
+:x: 3.5 wymaganie 2
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
+Kod: [Zadanie 8](https://github.com/wmakoss/Projektowanie-obiektowe/tree/main/zadanie%208)
+
 **Zadanie 9** Testy
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/wmakoss/Projektowanie-obiektowe/commit/4902ad5110ce8ec79833de04c153c4664e2c698b)
